@@ -1,0 +1,12 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+
+div.App {
+  padding: 50px;
+}
+
+li {
+  padding-bottom: 5px;
+}
